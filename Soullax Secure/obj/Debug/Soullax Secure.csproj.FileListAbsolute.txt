@@ -1,0 +1,16 @@
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\Soullax Secure.exe.config
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\Soullax Secure.exe
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\Soullax Secure.pdb
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\MetroFramework.Design.dll
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\MetroFramework.dll
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.csproj.AssemblyReference.cache
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax_Secure.Properties.Resources.resources
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.csproj.GenerateResource.cache
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.csproj.CoreCompileInputs.cache
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.csproj.CopyComplete
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.exe
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax Secure.pdb
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax_Secure.About.resources
+C:\Users\Soullax\Documents\DEV\Soullax Secure\Soullax Secure\obj\Debug\Soullax_Secure.PasswordGen.resources

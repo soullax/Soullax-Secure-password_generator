@@ -1,0 +1,1 @@
+ a = msgbox("The password is generated was sucessfuly" ,64, "Soullax Secure")
