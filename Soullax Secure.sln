@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soullax Secure", "Soullax Secure\Soullax Secure.csproj", "{0C12AB61-3F84-4A96-9874-C2C8F66B07B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C12AB61-3F84-4A96-9874-C2C8F66B07B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C12AB61-3F84-4A96-9874-C2C8F66B07B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C12AB61-3F84-4A96-9874-C2C8F66B07B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C12AB61-3F84-4A96-9874-C2C8F66B07B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE31811C-2399-46D6-8A3A-F3D745F6CB78}
+	EndGlobalSection
+EndGlobal
