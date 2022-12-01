@@ -10,4 +10,4 @@ This is part of this toolbox (that of the password generator).
 
 # Requirments
 ## Python
-<a href='https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5?hl=en-us&gl=us'>Download</a>
+<a href='ms-windows-store://pdp/?ProductId=9PJPW5LDXLZ5'>Download</a>
